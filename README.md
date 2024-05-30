@@ -16,7 +16,7 @@
  [Retaile Sales.csv](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
 ### Tools
-python 
+Jupyter
 
 ### Data cleaning 
 
